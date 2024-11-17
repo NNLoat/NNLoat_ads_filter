@@ -1,0 +1,116 @@
+! 2021-11-26 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.login-modal-div
+
+! 2021-12-04 https://steampeek.hu
+steampeek.hu###cm-ov
+steampeek.hu##.cc_div
+
+! 2021-12-06 https://www.rockpapershotgun.com
+www.rockpapershotgun.com##.ot-fade-in.onetrust-pc-dark-filter
+www.rockpapershotgun.com###onetrust-group-container
+www.rockpapershotgun.com###onetrust-button-group-parent
+
+! 2021-12-28 https://neko-miku.com
+||neko-miku.com/images/830.gif$image
+
+! 2022-01-04 http://www.jiayipen.com
+||3332332.com/f1970030e053452baa0ea10b540290ce.gif$image
+||sc04.alicdn.com/kf/U241a5f8ef3b540d3a30c2b6bd2267a613/7006108197/U241a5f8ef3b540d3a30c2b6bd2267a613.jpg$image
+||3337357.com/2bbb5ce383454228bfc109e98defb3c5.gif$image
+
+! 2022-01-05 http://www.dandanav.com
+||ad.xmmnsl.com/uploads/images/1639637022.gif$image
+||6399tp.com/7299/650x150.gif$image
+
+! 2022-01-12 https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+
+hydracdn.network##+js(nosiif, devtoolsOpen)
+
+! 2022-01-14 https://myanimelist.net
+myanimelist.net###gdpr-modal-bottom
+
+! 2022-01-24 https://www.anime-sugoi.com
+||www.anime-sugoi.com/pic/*.gif$image
+||www.anime-sugoi.com/pic/ufayabo.jpg$image
+
+! 2022-03-17 https://www.anime-master.com
+||www.anime-master.com/upload/*.gif$image
+
+! 2022-04-01 https://www.animeyoko.com
+||www.animeyoko.com/wp-content/uploads/2022/03/1647934507602.gif$image
+
+! 2022-04-03 https://www.animeyoko.com
+www.animeyoko.com/wp-content/uploads/
+
+! 2022-04-09 https://www.animehdzeroo.com
+||img.shirokami.me/images/*.gif$image
+||images.shirokami.me/i/*.gif$image
+
+! 2022-04-13 https://animelolipop.com
+||www.i-pic.info/i/*.gif$image
+||i.imgur.com/*.gif$image
+
+! 2022-04-23 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-06-06 https://www.metalbridges.com
+www.metalbridges.com##.cwc-css-10g6v2k-cwc.cwc-entered.cwc-float-container
+
+! 2022-07-26 https://www.nintendolife.com
+||static.nintendolife.com/themes/nl.v10/css/images/bg.png?v=2$image
+||static.nintendolife.com/themes/nl.v10/css/images/bg.png?v=2$image
+||static.nintendolife.com/themes/nl.v10/css/images/bg.png?v=2$image
+
+! 2022-08-27 https://www.series-108.com
+||www.series-108.com/wp-content/uploads/*.gif$image
+
+! 2022-08-29 https://baan-series.co
+||image.baan-series.com/uploads/*.webp$image
+||image.baan-series.com/uploads/*.gif$image
+
+! 2022-09-12 https://chordtabs.in.th
+||chordtabs.in.th/banner/*.webp$image
+
+! 2022-09-29 https://www.nature.com
+www.nature.com##.cc-banner
+
+! 2022-12-11 https://www.anime-sugoi.com
+||www.anime-sugoi.com/pic/heng99.jpg?v=1$image
+
+! 2022-12-20 https://unix.stackexchange.com
+unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-12-23 https://www.kaidee.com
+www.kaidee.com##.theme--dark.v-sheet--shaped.v-sheet.v-snack__wrapper
+
+! 2022-12-27 https://www.live2days.com
+||www.live2days.com/wp-content/uploads/2022/*.gif$image
+www.live2days.com##.lazyloaded.entered.imgright
+www.live2days.com##.lazyloaded.entered.imgleft
+! www.live2days.com##div:matches-attr(class="/[\w]{7}/")
+
+! 2022-12-30 https://www.primeos.in
+||www.primeos.in/wp-content/uploads/2022/04/Sidebar-Ad*.png.webp$image
+
+! 2023-01-10 https://1fichier.com
+1fichier.com###cookie_box
+
+! 2024-03-24 https://stackoverflow.com
+stackoverflow.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+! 2024-03-25 https://stats.stackexchange.com
+stats.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+! 2024-03-25 https://datascience.stackexchange.com
+datascience.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+! 2024-03-27 https://subthai.tv
+subthai.tv###ads_
+
+! 2024-04-17 https://tex.stackexchange.com
+tex.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+! Jul 15, 2024 https://www.dooseries4k.com
+||www.dooseries4k.com/wp-content/uploads/*.gif$image
