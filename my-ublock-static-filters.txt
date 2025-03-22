@@ -25,7 +25,6 @@ www.rockpapershotgun.com###onetrust-button-group-parent
 ! 2022-01-12 https://superuser.com
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 
-
 hydracdn.network##+js(nosiif, devtoolsOpen)
 
 ! 2022-01-14 https://myanimelist.net
@@ -114,3 +113,6 @@ tex.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloa
 
 ! Jul 15, 2024 https://www.dooseries4k.com
 ||www.dooseries4k.com/wp-content/uploads/*.gif$image
+
+! Mar 22, 2025 https://www.123-hd.com
+||www.123-hd.com/wp-content/uploads/*.gif$image
