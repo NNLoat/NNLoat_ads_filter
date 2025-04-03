@@ -114,5 +114,23 @@ tex.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloa
 ! Jul 15, 2024 https://www.dooseries4k.com
 ||www.dooseries4k.com/wp-content/uploads/*.gif$image
 
+! Dec 6, 2024 https://subthai.tv
+||subthai.tv/wp-content/themes/subthai/images/*.gif$image
+subthai.tv##.banner-container
+
+! Feb 12, 2025 https://www.anime-sugoi.com
+||animeyuzu.com/up/img/webp/*.webp$image
+
+! Feb 12, 2025 https://www.037hdmovie.com
+||www.037hdmovie.com/wp-content/uploads/*.gif$image
+www.037hdmovie.com###ads-single
+||image.cdend.com/wp-content/uploads/2024/03/120x380-kingdom66.gif$image
+www.037hdmovie.com###ads-popup
+www.037hdmovie.com###ads-bottom-player
+
+! Mar 7, 2025 https://www.ktc.co.th
+www.ktc.co.th##.cookie-wrapper__c
+||www.ktc.co.th/pub/media/Article/09/ktc-cant-lend-money_1448-543.webp$image
+
 ! Mar 22, 2025 https://www.123-hd.com
 ||www.123-hd.com/wp-content/uploads/*.gif$image
