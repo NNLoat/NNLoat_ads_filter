@@ -134,3 +134,7 @@ www.ktc.co.th##.cookie-wrapper__c
 
 ! Mar 22, 2025 https://www.123-hd.com
 ||www.123-hd.com/wp-content/uploads/*.gif$image
+
+! Apr 4, 2025 https://movie2free.online
+||movie2free.online/wp-content/uploads/2025/03/Ufazeed1500x188.webp$image
+movie2free.online##ul
