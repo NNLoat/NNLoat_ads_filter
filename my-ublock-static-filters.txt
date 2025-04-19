@@ -138,3 +138,18 @@ www.ktc.co.th##.cookie-wrapper__c
 ! Apr 4, 2025 https://movie2free.online
 ||movie2free.online/wp-content/uploads/2025/03/Ufazeed1500x188.webp$image
 movie2free.online##ul
+
+! Apr 15, 2025 https://subthai.cc
+subthai.cc##.banner-container
+
+
+! April 17, 2025 https://medium.com
+!medium.com##body:matches-attr(src=https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+!medium.com##h2:has-text("Sign up to discover human stories that deepen your understanding")
+!medium.com##div:has(h2:has-text(/^Sign up to discover human stories/i))
+
+! Apr 19, 2025 https://www.037hd-movies.com
+www.037hd-movies.com###ads-single
+www.037hd-movies.com###ads-sidebar-single-top
+www.037hd-movies.com###ads-bottom-player
+www.037hd-movies.com###ads-popup
