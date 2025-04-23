@@ -153,3 +153,7 @@ www.037hd-movies.com###ads-single
 www.037hd-movies.com###ads-sidebar-single-top
 www.037hd-movies.com###ads-bottom-player
 www.037hd-movies.com###ads-popup
+
+
+! Apr 23, 2025 https://www.anime-sugoi.com
+||www.anime-sugoi.com/pic/webp/*.webp$image
